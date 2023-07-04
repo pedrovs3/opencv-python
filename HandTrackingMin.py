@@ -45,7 +45,7 @@ while True:
         (10, 70),
         cv2.FONT_HERSHEY_PLAIN,
         2,
-        (255, 0,255),
+        (255, 0, 255),
         3
     )
     cv2.imshow("Image", img)
